@@ -61,3 +61,35 @@ INFO 2025-05-29 11:54:37,068 autoreload D:\MarketBytes\web-works\almas-app\backe
 INFO 2025-05-29 11:54:38,995 autoreload Watching for file changes with StatReloader
 INFO 2025-05-29 11:55:32,367 autoreload D:\MarketBytes\web-works\almas-app\backend\add_jobs\views.py changed, reloading.
 INFO 2025-05-29 11:55:33,717 autoreload Watching for file changes with StatReloader
+WARNING 2025-05-29 11:57:50,639 log Not Found: /
+WARNING 2025-05-29 11:57:50,936 log Not Found: /favicon.ico
+WARNING 2025-05-29 11:57:51,729 log Not Found: /
+WARNING 2025-05-29 11:57:52,274 log Not Found: /
+WARNING 2025-05-29 11:57:52,549 log Not Found: /
+WARNING 2025-05-29 12:00:25,183 log Not Found: /
+WARNING 2025-05-29 12:00:27,974 log Not Found: /
+WARNING 2025-05-29 12:00:28,248 log Not Found: /
+WARNING 2025-05-29 12:00:28,439 log Not Found: /
+WARNING 2025-05-29 12:00:32,053 log Not Found: /static/admin/css/base.css
+WARNING 2025-05-29 12:00:32,061 log Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-05-29 12:00:32,069 log Not Found: /static/admin/css/login.css
+WARNING 2025-05-29 12:00:32,073 log Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-05-29 12:00:32,079 log Not Found: /static/admin/css/responsive.css
+WARNING 2025-05-29 12:00:32,082 log Not Found: /static/admin/js/theme.js
+WARNING 2025-05-29 12:00:32,093 log Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-05-29 12:00:32,103 log Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-05-29 12:00:32,108 log Not Found: /static/admin/css/login.css
+WARNING 2025-05-29 12:00:32,114 log Not Found: /static/admin/css/responsive.css
+WARNING 2025-05-30 14:41:48,413 log Not Found: /
+WARNING 2025-05-30 14:41:48,659 log Not Found: /favicon.ico
+WARNING 2025-05-30 14:41:53,419 log Not Found: /backend
+WARNING 2025-05-30 15:08:07,637 log Not Found: /
+WARNING 2025-05-30 15:08:44,136 log Not Found: /
+WARNING 2025-05-30 15:35:06,240 log Not Found: /
+WARNING 2025-05-30 15:35:36,192 log Not Found: /
+WARNING 2025-05-30 15:35:38,253 log Not Found: /
+WARNING 2025-05-30 15:35:38,408 log Not Found: /
+WARNING 2025-05-30 15:35:38,605 log Not Found: /
+WARNING 2025-05-30 15:35:38,914 log Not Found: /
+WARNING 2025-05-30 15:35:39,069 log Not Found: /
+WARNING 2025-05-30 15:35:39,180 log Not Found: /
